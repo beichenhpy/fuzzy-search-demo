@@ -1,8 +1,8 @@
-package cn.beichenhpy.mybatisplusdemo.service.Impl;
+package cn.beichenhpy.fuzzysearchdemo.service.Impl;
 
-import cn.beichenhpy.mybatisplusdemo.entity.Device;
-import cn.beichenhpy.mybatisplusdemo.mapper.DeviceMapper;
-import cn.beichenhpy.mybatisplusdemo.service.IDeviceService;
+import cn.beichenhpy.fuzzysearchdemo.entity.Device;
+import cn.beichenhpy.fuzzysearchdemo.mapper.DeviceMapper;
+import cn.beichenhpy.fuzzysearchdemo.service.IDeviceService;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

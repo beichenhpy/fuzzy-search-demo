@@ -1,7 +1,7 @@
-package cn.beichenhpy.mybatisplusdemo.service;
+package cn.beichenhpy.fuzzysearchdemo.service;
 
 
-import cn.beichenhpy.mybatisplusdemo.entity.Device;
+import cn.beichenhpy.fuzzysearchdemo.entity.Device;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 import java.util.List;

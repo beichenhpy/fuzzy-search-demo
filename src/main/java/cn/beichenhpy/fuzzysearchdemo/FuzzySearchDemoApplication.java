@@ -1,13 +1,13 @@
-package cn.beichenhpy.mybatisplusdemo;
+package cn.beichenhpy.fuzzysearchdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MybatisPlusDemoApplication {
+public class FuzzySearchDemoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MybatisPlusDemoApplication.class, args);
+        SpringApplication.run(FuzzySearchDemoApplication.class, args);
     }
 
 }

@@ -1,4 +1,4 @@
-package cn.beichenhpy.mybatisplusdemo.config;
+package cn.beichenhpy.fuzzysearchdemo.config;
 
 import com.baomidou.mybatisplus.annotation.DbType;
 import com.baomidou.mybatisplus.autoconfigure.ConfigurationCustomizer;

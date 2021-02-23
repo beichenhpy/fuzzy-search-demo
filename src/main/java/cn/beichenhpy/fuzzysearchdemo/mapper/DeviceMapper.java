@@ -1,6 +1,6 @@
-package cn.beichenhpy.mybatisplusdemo.mapper;
+package cn.beichenhpy.fuzzysearchdemo.mapper;
 
-import cn.beichenhpy.mybatisplusdemo.entity.Device;
+import cn.beichenhpy.fuzzysearchdemo.entity.Device;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
