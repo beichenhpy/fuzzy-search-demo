@@ -1,2 +1,3 @@
-# mybatis-plus-demo
-demo for mybatis-plus
+# fuzzy-search demo
+fuzzy-search demo
+模糊搜索demo
